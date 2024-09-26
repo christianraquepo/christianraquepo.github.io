@@ -1,11 +1,23 @@
 ---
-title: "christianraquepo.github.io"
+title: "Christian Raquepo"
+image: media/me.jpeg
+toc: true
+about:
+  template: trestles 
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/christian-raquepo-a5605b2aa/
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/_bro.christian/
+    - icon: github
+      text: Github
+      href: https://github.com/christianraquepo
 ---
 
-This is a Quarto website.
+Aloha kākou!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a sophomore computer science and data science double major at the Chaminade University of Honolulu.

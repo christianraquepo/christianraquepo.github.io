@@ -1,0 +1,4 @@
+---
+title: "Resume"
+image: media/Christian.Raquepo.RESUME.jpeg
+---
