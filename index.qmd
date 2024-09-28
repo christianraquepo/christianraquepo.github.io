@@ -20,4 +20,4 @@ about:
 
 Aloha kākou!
 
-I am a sophomore computer science and data science double major at the Chaminade University of Honolulu.
+I am a sophomore computer science and data science double major at the Chaminade University of Honolulu!

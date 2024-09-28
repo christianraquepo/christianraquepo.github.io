@@ -1,4 +1,5 @@
 ---
 title: "Resume"
-image: media/Christian.Raquepo.RESUME.jpeg
 ---
+
+![](media/resume.png){fig-align="center"}
